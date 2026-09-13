@@ -1,0 +1,1 @@
+basically first lab and we learned basics of c++, including cout.
